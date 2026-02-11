@@ -1,22 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
 
 ###################################  4K  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filmes 4K",De Sade 70 (1970)
 https://pixeldrain.com/api/file/j8LDSGmB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filme 4K",Marquis de Sade’s: Justine (1977)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filmes 4K",Marquis de Sade’s: Justine (1977)
 https://pixeldrain.com/api/file/RxhUEvQL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
+https://pixeldrain.com/api/file/MDAZnDT7
 
 ###################################  DUB  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes DUB",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qE7iccDSq7NImjFrV0tcm7BrDgX.jpg" group-title="Filme",Deus e o Diabo na Terra do Sol (1964)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qE7iccDSq7NImjFrV0tcm7BrDgX.jpg" group-title="Filmes DUB",Deus e o Diabo na Terra do Sol (1964)
 https://pixeldrain.com/api/file/1YM2ncFv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filme",Henry & June: Delírios Eróticos (1990)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filmes DUB",Henry & June: Delírios Eróticos (1990)
 https://pixeldrain.com/api/file/rUmL5vyx
 dub - https://pixeldrain.com/l/qK2PMkrE
 
 ###################################  LEG  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/131656_front.jpg" group-title="Filme",La comtesse perverse (1975)
+https://pixeldrain.com/api/file/ZFq7Ne7J
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjZTBkN2UtMTU1Ni00NjQ1LWJiNzItNDY2MTkxZDIzNjU0XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filme",Female Perversions (1997)
+https://pixeldrain.com/api/file/z4XmBFt7
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zPhp6SDQlYXvZYkvHrF3ecmSdQ0.jpg" group-title="Filme",Carmilla - A Vampira de Karnstein (1970)
 https://pixeldrain.com/api/file/m8VeU3NE
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xPA3n6HGiZccrkygDPq6tzeEDbU.jpg" group-title="Filme",As Filhas de Drácula (1974)
