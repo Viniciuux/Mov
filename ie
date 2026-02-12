@@ -4,6 +4,8 @@
 ###################################  4K  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Onze Dias, Onze Noites 2 (1991)
+https://pixeldrain.com/api/file/xXRZr9kS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filmes 4K",Up! (1976)
 https://pixeldrain.com/api/file/L52rMxer
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filmes 4K",De Sade 70 (1970)
@@ -24,6 +26,16 @@ https://pixeldrain.com/api/file/rUmL5vyx
 ###################################  LEG  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238951_front.jpg" group-title="Filme",Onze Dias, Onze Noites (1987)
+https://pixeldrain.com/api/file/yNAmmgyA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lE6TFkudwnF3ulhD2Qwl6tjPcYS.jpg" group-title="Filme",Pretty Peaches (1978)
+https://pixeldrain.com/api/file/iAu7ya2o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mwzVbHVe6IKO2mdtamiFcbK6Zdi.jpg" group-title="Filme",Pretty Peaches 2 (1987)
+https://pixeldrain.com/api/file/UXCmYHJL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n5IyeWnpCQ1ijo4Ol2GzHygKP5S.jpg" group-title="Filme",Pretty Peaches 3: The Quest (1989)
+https://pixeldrain.com/api/file/e5Q4sLYN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1ZIMDXWgvr8U8f4f2D9Ky6CRXhA.jpg" group-title="Filme",Joana D'Arc (1999)
 https://pixeldrain.com/api/file/T7oAScCv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filme",Up! (1976)
