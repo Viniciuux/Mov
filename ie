@@ -4,6 +4,9 @@
 ###################################  4K  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/335549_front.jpg" group-title="Filmes 4K",Todas as Mulheres Fazem (1992)
+https://pixeldrain.com/api/file/BLPCDzfb/thumbnail
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Onze Dias, Onze Noites 2 (1991)
 https://pixeldrain.com/api/file/xXRZr9kS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filmes 4K",Up! (1976)
@@ -15,19 +18,23 @@ https://pixeldrain.com/api/file/RxhUEvQL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
 https://pixeldrain.com/api/file/MDAZnDT7
 
-###################################  DUB  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes DUB",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qE7iccDSq7NImjFrV0tcm7BrDgX.jpg" group-title="Filmes DUB",Deus e o Diabo na Terra do Sol (1964)
-https://pixeldrain.com/api/file/1YM2ncFv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filmes DUB",Henry & June: Delírios Eróticos (1990)
-https://pixeldrain.com/api/file/rUmL5vyx
-
 ###################################  LEG  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/337546_front.jpg" group-title="Filme",Debbie Does Demons (2022)
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/352585_front.jpg" group-title="Filme",Todas as Mulheres Fazem (1992)
+https://pixeldrain.com/api/file/RP2CQHvs/thumbnail
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/287823_front.jpg" group-title="Filme",La via della prostituzione (1978)
+https://pixeldrain.com/api/file/anNDdnqt
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/343135_front.jpg" group-title="Filme",Emanuelle nera (1975)
+https://pixeldrain.com/api/file/NVhbKVuo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238630_front.jpg" group-title="Filme",Emanuelle e Françoise (Le sorelline) (1975)
+https://pixeldrain.com/api/file/AZVk3kqH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/196041_front.jpg" group-title="Filme",Frauengefängnis (1976)
+https://pixeldrain.com/api/file/x652z99h
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/286761_front.jpg" group-title="Filme",Desejos Loucos de um Assassino (1977)
+https://pixeldrain.com/api/file/XpEirEvL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238951_front.jpg" group-title="Filme",Onze Dias, Onze Noites (1987)
 https://pixeldrain.com/api/file/yNAmmgyA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lE6TFkudwnF3ulhD2Qwl6tjPcYS.jpg" group-title="Filme",Pretty Peaches (1978)
@@ -69,3 +76,10 @@ https://pixeldrain.com/api/file/cZwjpNfV
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mRbdOe5vMnY3HXxLnWgRFJHbCPs.jpg" group-title="Filme",Terror em Silent Hill: Regresso Para o Inferno (2026)
 https://pixeldrain.com/api/file/Nb2isRv4
 
+###################################  DUB  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes DUB",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/qE7iccDSq7NImjFrV0tcm7BrDgX.jpg" group-title="Filmes DUB",Deus e o Diabo na Terra do Sol (1964)
+https://pixeldrain.com/api/file/1YM2ncFv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filmes DUB",Henry & June: Delírios Eróticos (1990)
+https://pixeldrain.com/api/file/rUmL5vyx
