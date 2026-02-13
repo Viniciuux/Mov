@@ -28,6 +28,10 @@ https://pixeldrain.com/api/file/MDAZnDT7
 ###################################  LEG  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/14099_front.jpg" group-title="Filme",Salon Kitty (1976)
+https://pixeldrain.com/api/file/e8Bo5vUc
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/94409_front.jpg" group-title="Filme",Eine Armee Gretchen (1973)
+https://pixeldrain.com/api/file/mauaWFrv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/299258_front.jpg" group-title="Filme",Maid in Sweden (1971)
 https://pixeldrain.com/api/file/pw776pt3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/354004_front.jpg" group-title="Filme",Atrás dos Muros do Convento (1978)
