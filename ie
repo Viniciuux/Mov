@@ -1,33 +1,40 @@
 #EXTM3U
 
 
-###################################  4K  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="Filmes 4K",Kevin Turvey: The Man Behind the Green Door (1982)
-https://pixeldrain.com/api/file/6kWzrp1r
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/403537_front.jpg" group-title="Filmes 4K",Vampyros Lesbos (1971)
-https://pixeldrain.com/api/file/FXhy4KFR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/338378_front.jpg" group-title="Filmes 4K",The Night of the Hunted (1980)
-https://pixeldrain.com/api/file/Fy5PuEcK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/286061_front.jpg" group-title="Filmes 4K",SexWorld (1978)
-https://pixeldrain.com/api/file/356NFJWG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/335549_front.jpg" group-title="Filmes 4K",Todas as Mulheres Fazem (1992)
-https://pixeldrain.com/api/file/BLPCDzfb/thumbnail
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Onze Dias, Onze Noites 2 (1991)
-https://pixeldrain.com/api/file/xXRZr9kS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filmes 4K",Up! (1976)
-https://pixeldrain.com/api/file/L52rMxer
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filmes 4K",De Sade 70 (1970)
-https://pixeldrain.com/api/file/j8LDSGmB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filmes 4K",Marquis de Sade’s: Justine (1977)
-https://pixeldrain.com/api/file/RxhUEvQL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
-https://pixeldrain.com/api/file/MDAZnDT7
 
 ###################################  LEG  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/370592_front.jpg" group-title="Filme",Beneath the Valley of the Ultra-Vixens (1979)
+https://pixeldrain.com/api/file/VwnbQfGR
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/14099_front.jpg" group-title="Filme",Salon Kitty (1976)
 https://pixeldrain.com/api/file/e8Bo5vUc
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/94409_front.jpg" group-title="Filme",Eine Armee Gretchen (1973)
@@ -116,6 +123,30 @@ https://pixeldrain.com/api/file/cZwjpNfV
 https://pixeldrain.com/api/file/Nb2isRv4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filme",Henry & June: Delírios Eróticos (1990)
 https://pixeldrain.com/api/file/rUmL5vyx
+
+###################################  4K  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="Filmes 4K",Kevin Turvey: The Man Behind the Green Door (1982)
+https://pixeldrain.com/api/file/6kWzrp1r
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/403537_front.jpg" group-title="Filmes 4K",Vampyros Lesbos (1971)
+https://pixeldrain.com/api/file/FXhy4KFR
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/338378_front.jpg" group-title="Filmes 4K",The Night of the Hunted (1980)
+https://pixeldrain.com/api/file/Fy5PuEcK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/286061_front.jpg" group-title="Filmes 4K",SexWorld (1978)
+https://pixeldrain.com/api/file/356NFJWG
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/335549_front.jpg" group-title="Filmes 4K",Todas as Mulheres Fazem (1992)
+https://pixeldrain.com/api/file/BLPCDzfb/thumbnail
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Onze Dias, Onze Noites 2 (1991)
+https://pixeldrain.com/api/file/xXRZr9kS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filmes 4K",Up! (1976)
+https://pixeldrain.com/api/file/L52rMxer
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filmes 4K",De Sade 70 (1970)
+https://pixeldrain.com/api/file/j8LDSGmB
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filmes 4K",Marquis de Sade’s: Justine (1977)
+https://pixeldrain.com/api/file/RxhUEvQL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
+https://pixeldrain.com/api/file/MDAZnDT7
 
 ###################################  DUB  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes DUB",
