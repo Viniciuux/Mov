@@ -25,10 +25,6 @@ https://pixeldrain.com/api/file/VTW9xc5e
 https://pixeldrain.com/api/file/cKqe9YCp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oNnvAJkPWH5enUBexmmbrxxebxR.jpg" group-title="Filme",Paprika (1991)
 https://pixeldrain.com/api/file/4fJvBPhP
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="Filme +18",The Opening of Misty Beethoven (1976)
-https://pixeldrain.com/api/file/6thFbxPW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/383019_front.jpg" group-title="Filme +18",Rolls-Royce Baby (1975)
-https://pixeldrain.com/api/file/Wa99fQaz
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w780/a6mjpgmNxpWeuw6HWb2EKnkBX3t.jpg" group-title="Filme",Die Sex-Spelunke von Bangkok (1975)
 https://pixeldrain.com/api/file/NZ5WbBs3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/112918_front.jpg" group-title="Filme",Die Sex-Abenteuer der drei Musketiere (1971)
@@ -67,10 +63,6 @@ https://pixeldrain.com/api/file/A16R5xbB
 https://pixeldrain.com/api/file/RUMQrABA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/192700_front.jpg" group-title="Filme",Antipornô (2017)
 https://pixeldrain.com/api/file/Lc8FEJfe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w780/udJPmmOP7rbS69MIDlkR5LPVrVa.jpg" group-title="Filme +18",Deep Throat (1972)
-https://pixeldrain.com/api/file/LedmSD1j
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/163006_front.jpg" group-title="Filme +18",Deep Throat Part II (1974)
-https://pixeldrain.com/api/file/kwvGzBhL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/337546_front.jpg" group-title="Filme",Debbie Does Demons (2022)
 https://pixeldrain.com/api/file/7Jg3Uzij
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/352585_front.jpg" group-title="Filme",All Ladies Do It (1992)
@@ -87,10 +79,6 @@ https://pixeldrain.com/api/file/x652z99h
 https://pixeldrain.com/api/file/XpEirEvL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238951_front.jpg" group-title="Filme",Eleven Days, Eleven Nights (1987)
 https://pixeldrain.com/api/file/yNAmmgyA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mwzVbHVe6IKO2mdtamiFcbK6Zdi.jpg" group-title="Filme +18",Pretty Peaches 2 (1987)
-https://pixeldrain.com/api/file/UXCmYHJL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n5IyeWnpCQ1ijo4Ol2GzHygKP5S.jpg" group-title="Filme +18",Pretty Peaches 3: The Quest (1989)
-https://pixeldrain.com/api/file/e5Q4sLYN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1ZIMDXWgvr8U8f4f2D9Ky6CRXhA.jpg" group-title="Filme",Joana D'Arc (1999)
 https://pixeldrain.com/api/file/T7oAScCv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filme",Up! (1976)
@@ -144,8 +132,20 @@ https://pixeldrain.com/api/file/RxhUEvQL
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
 https://pixeldrain.com/api/file/MDAZnDT7
 
-###################################  DUB  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes DUB",
-
+###################################  +18  ###############################################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="Filme +18",The Opening of Misty Beethoven (1976)
+https://pixeldrain.com/api/file/6thFbxPW
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/383019_front.jpg" group-title="Filme +18",Rolls-Royce Baby (1975)
+https://pixeldrain.com/api/file/Wa99fQaz
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mwzVbHVe6IKO2mdtamiFcbK6Zdi.jpg" group-title="Filme +18",Pretty Peaches 2 (1987)
+https://pixeldrain.com/api/file/UXCmYHJL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n5IyeWnpCQ1ijo4Ol2GzHygKP5S.jpg" group-title="Filme +18",Pretty Peaches 3: The Quest (1989)
+https://pixeldrain.com/api/file/e5Q4sLYN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w780/udJPmmOP7rbS69MIDlkR5LPVrVa.jpg" group-title="Filme +18",Deep Throat (1972)
+https://pixeldrain.com/api/file/LedmSD1j
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/163006_front.jpg" group-title="Filme +18",Deep Throat Part II (1974)
+https://pixeldrain.com/api/file/kwvGzBhL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/196578_front.jpg" group-title="Filme +18",Too Naughty to Say No (1985)
+https://pixeldrain.com/api/file/NYSdaohc
 
 
