@@ -15,8 +15,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oNnvAJkPWH5enUBexmmbrxxebxR.jpg" group-title="Filme",Paprika (1991)
+https://pixeldrain.com/api/file/4fJvBPhP
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="Filme +18",The Opening of Misty Beethoven (1976)
 https://pixeldrain.com/api/file/6thFbxPW
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/383019_front.jpg" group-title="Filme +18",Rolls-Royce Baby (1975)
