@@ -15,6 +15,14 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xBnzLwfRdHKJZS4dd2DMbiy6jLC.jpg" group-title="Filme",Miranda (1985)
+https://pixeldrain.com/api/file/Rp6iehtM
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rj8EOr3miAwYXBR3AVr3nYNa69o.jpg" group-title="Filme",La chiave (1983)
+https://pixeldrain.com/api/file/LUn4qGvC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg" group-title="Filme",Monella (1998)
+https://pixeldrain.com/api/file/VTW9xc5e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/o3DUeIGIYxcsgyASgn3aKX0vTJu.jpg" group-title="Filme",Senso '45 (2002)
+https://pixeldrain.com/api/file/cKqe9YCp
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/oNnvAJkPWH5enUBexmmbrxxebxR.jpg" group-title="Filme",Paprika (1991)
 https://pixeldrain.com/api/file/4fJvBPhP
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="Filme +18",The Opening of Misty Beethoven (1976)
@@ -111,8 +119,8 @@ https://pixeldrain.com/api/file/cZwjpNfV
 https://pixeldrain.com/api/file/rUmL5vyx
 
 ###################################  4K  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Monella (1998)
+https://pixeldrain.com/api/file/Ax2TRQcy
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="Filmes 4K",Keeper (2025)
 https://pixeldrain.com/api/file/19Z5PwJe
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="Filmes 4K",Kevin Turvey: The Man Behind the Green Door (1982)
