@@ -1,6 +1,12 @@
 #EXTM3U
 
-
+###################################  FILMES LEG  ###############################################
+#EXTINF:-1 tvg-id="tt0104014" tvg-name="O Homem Que Olha" tvg-logo="https://images.static-bluray.com/movies/covers/130379_front.jpg" group-title="Filme",L'uomo che guarda (1994)
+https://pixeldrain.com/api/file/DKUgAhBT
+#EXTINF:-1 tvg-id="tt0089598" tvg-name="Miranda" tvg-logo="https://www.themoviedb.org/t/p/w1280/xBnzLwfRdHKJZS4dd2DMbiy6jLC.jpg" group-title="Filme",Miranda (1985)
+https://pixeldrain.com/api/file/Rp6iehtM
+#EXTINF:-1 tvg-id="tt0085328" tvg-name="A Chave" tvg-logo="https://www.themoviedb.org/t/p/w1280/rj8EOr3miAwYXBR3AVr3nYNa69o.jpg" group-title="Filme",La chiave (1983)
+https://pixeldrain.com/api/file/LUn4qGvC
 
 ###################################  LEG  ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
@@ -15,10 +21,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/xBnzLwfRdHKJZS4dd2DMbiy6jLC.jpg" group-title="Filme",Miranda (1985)
-https://pixeldrain.com/api/file/Rp6iehtM
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/rj8EOr3miAwYXBR3AVr3nYNa69o.jpg" group-title="Filme",La chiave (1983)
-https://pixeldrain.com/api/file/LUn4qGvC
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg" group-title="Filme",Monella (1998)
 https://pixeldrain.com/api/file/VTW9xc5e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/o3DUeIGIYxcsgyASgn3aKX0vTJu.jpg" group-title="Filme",Senso '45 (2002)
