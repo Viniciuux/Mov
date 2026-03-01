@@ -1,149 +1,105 @@
 #EXTM3U
-
-###################################  FILMES LEG  ###############################################
-#EXTINF:-1 tvg-id="tt0104014" tvg-name="O Homem Que Olha" tvg-logo="https://images.static-bluray.com/movies/covers/130379_front.jpg" group-title="Filme",L'uomo che guarda (1994)
+#EXTINF:0 CUID="1" tvg-name="O Homem Que Olha" tvg-logo="https://images.static-bluray.com/movies/covers/130379_front.jpg" group-title="FILMES LEGENDADOS",O Homem Que Olha
 https://pixeldrain.com/api/file/DKUgAhBT
-#EXTINF:-1 tvg-id="tt0089598" tvg-name="Miranda" tvg-logo="https://www.themoviedb.org/t/p/w1280/xBnzLwfRdHKJZS4dd2DMbiy6jLC.jpg" group-title="Filme",Miranda (1985)
+#EXTINF:0 CUID="2" tvg-name="Miranda" tvg-logo="https://www.themoviedb.org/t/p/w1280/xBnzLwfRdHKJZS4dd2DMbiy6jLC.jpg" group-title="FILMES LEGENDADOS",Miranda
 https://pixeldrain.com/api/file/Rp6iehtM
-#EXTINF:-1 tvg-id="tt0085328" tvg-name="A Chave" tvg-logo="https://www.themoviedb.org/t/p/w1280/rj8EOr3miAwYXBR3AVr3nYNa69o.jpg" group-title="Filme",La chiave (1983)
+#EXTINF:0 CUID="3" tvg-name="A Chave" tvg-logo="https://www.themoviedb.org/t/p/w1280/rj8EOr3miAwYXBR3AVr3nYNa69o.jpg" group-title="FILMES LEGENDADOS",A Chave
 https://pixeldrain.com/api/file/LUn4qGvC
-
-###################################  dub download  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filme",
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg" group-title="Filme",Monella (1998)
+#EXTINF:0 CUID="4" tvg-name="Monella" tvg-logo="https://www.themoviedb.org/t/p/w1280/n691GdFEMP3bBZ3SvLxFD2paAOz.jpg" group-title="FILMES LEGENDADOS",Monella
 https://pixeldrain.com/api/file/VTW9xc5e
-#EXTINF:-1 tvg-id="tt0267261" tvg-name="Luxúria" tvg-logo="https://www.themoviedb.org/t/p/w1280/o3DUeIGIYxcsgyASgn3aKX0vTJu.jpg" group-title="Filme",Senso '45 (2002)
+#EXTINF:0 CUID="5" tvg-name="Luxúria" tvg-logo="https://www.themoviedb.org/t/p/w1280/o3DUeIGIYxcsgyASgn3aKX0vTJu.jpg" group-title="FILMES LEGENDADOS",Luxúria
 https://pixeldrain.com/api/file/cKqe9YCp
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="tt0098063" tvg-name="O Bordel de Paprika" tvg-logo="https://www.themoviedb.org/t/p/w1280/oNnvAJkPWH5enUBexmmbrxxebxR.jpg" group-title="Filme",Paprika (1991)
+#EXTINF:0 CUID="6" tvg-name="O Bordel de Paprika" tvg-logo="https://www.themoviedb.org/t/p/w1280/oNnvAJkPWH5enUBexmmbrxxebxR.jpg" group-title="FILMES LEGENDADOS",O Bordel de Paprika
 https://pixeldrain.com/api/file/4fJvBPhP
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w780/a6mjpgmNxpWeuw6HWb2EKnkBX3t.jpg" group-title="Filme",Die Sex-Spelunke von Bangkok (1975)
+#EXTINF:0 CUID="7" tvg-name="Die Sex-Spelunke von Bangkok" tvg-logo="https://image.tmdb.org/t/p/w780/a6mjpgmNxpWeuw6HWb2EKnkBX3t.jpg" group-title="FILMES LEGENDADOS",Die Sex-Spelunke von Bangkok
 https://pixeldrain.com/api/file/NZ5WbBs3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/112918_front.jpg" group-title="Filme",Die Sex-Abenteuer der drei Musketiere (1971)
+#EXTINF:0 CUID="8" tvg-name="Die Sex-Abenteuer der drei Musketiere" tvg-logo="https://images.static-bluray.com/movies/covers/112918_front.jpg" group-title="FILMES LEGENDADOS",Die Sex-Abenteuer der drei Musketiere
 https://pixeldrain.com/api/file/8ivwBvR5
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/317954_front.jpg" group-title="Filme",Macumba sexual (1983)
+#EXTINF:0 CUID="9" tvg-name="Macumba sexual" tvg-logo="https://images.static-bluray.com/movies/covers/317954_front.jpg" group-title="FILMES LEGENDADOS",Macumba sexual
 https://pixeldrain.com/api/file/XmDFzMBB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/121450_front.jpg" group-title="Filme",Blutjunge Verführerinnen (1971)
+#EXTINF:0 CUID="10" tvg-name="The Young Seducers" tvg-logo="https://images.static-bluray.com/movies/covers/121450_front.jpg" group-title="FILMES LEGENDADOS",The Young Seducers
 https://pixeldrain.com/api/file/eAH8RnYp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/370592_front.jpg" group-title="Filme",Beneath the Valley of the Ultra-Vixens (1979)
+#EXTINF:0 CUID="11" tvg-name="No Vale das Deusas Acromegálicas" tvg-logo="https://images.static-bluray.com/movies/covers/370592_front.jpg" group-title="FILMES LEGENDADOS",No Vale das Deusas Acromegálicas
 https://pixeldrain.com/api/file/VwnbQfGR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/14099_front.jpg" group-title="Filme",Salon Kitty (1976)
+#EXTINF:0 CUID="12" tvg-name="Salon Kitty" tvg-logo="https://images.static-bluray.com/movies/covers/14099_front.jpg" group-title="FILMES LEGENDADOS",Salon Kitty
 https://pixeldrain.com/api/file/e8Bo5vUc
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/94409_front.jpg" group-title="Filme",Eine Armee Gretchen (1973)
+#EXTINF:0 CUID="13" tvg-name="Eine Armee Gretchen" tvg-logo="https://images.static-bluray.com/movies/covers/94409_front.jpg" group-title="FILMES LEGENDADOS",Eine Armee Gretchen
 https://pixeldrain.com/api/file/mauaWFrv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/299258_front.jpg" group-title="Filme",Maid in Sweden (1971)
+#EXTINF:0 CUID="14" tvg-name="Maid in Sweden" tvg-logo="https://images.static-bluray.com/movies/covers/299258_front.jpg" group-title="FILMES LEGENDADOS",Maid in Sweden
 https://pixeldrain.com/api/file/pw776pt3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/354004_front.jpg" group-title="Filme",Behind Convent Walls (1978)
+#EXTINF:0 CUID="15" tvg-name="Behind Convent Walls" tvg-logo="https://images.static-bluray.com/movies/covers/354004_front.jpg" group-title="FILMES LEGENDADOS",Behind Convent Walls
 https://pixeldrain.com/api/file/t2RRFNYg
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="Filme",Kevin Turvey: The Man Behind the Green Door (1982)
+#EXTINF:0 CUID="16" tvg-name="Kevin Turvey: The Man Behind the Green Door" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="FILMES LEGENDADOS",Kevin Turvey: The Man Behind the Green Door
 https://pixeldrain.com/api/file/wR5UAXLC
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/127376_front.jpg" group-title="Filme",Ski School (1991)
+#EXTINF:0 CUID="17" tvg-name="Ski School" tvg-logo="https://images.static-bluray.com/movies/covers/127376_front.jpg" group-title="FILMES LEGENDADOS",Ski School
 https://pixeldrain.com/api/file/9TLC26sS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/5683_front.jpg" group-title="Filme",Screwballs (1983)
+#EXTINF:0 CUID="18" tvg-name="Screwballs" tvg-logo="https://images.static-bluray.com/movies/covers/5683_front.jpg" group-title="FILMES LEGENDADOS",Screwballs
 https://pixeldrain.com/api/file/YEq1gvR3
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/10952_front.jpg" group-title="Filme",Loose Screws (1985)
+#EXTINF:0 CUID="19" tvg-name="Loose Screws" tvg-logo="https://images.static-bluray.com/movies/covers/10952_front.jpg" group-title="FILMES LEGENDADOS",Loose Screws
 https://pixeldrain.com/api/file/jS1dSMQS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/129302_front.jpg" group-title="Filme",Your Vice Is a Locked Room and Only I Have the Key (1972)
+#EXTINF:0 CUID="20" tvg-name="No Quarto Escuro de Satã" tvg-logo="https://images.static-bluray.com/movies/covers/129302_front.jpg" group-title="FILMES LEGENDADOS",No Quarto Escuro de Satã
 https://pixeldrain.com/api/file/6zxi1aAS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/116995_front.jpg" group-title="Filme",Vampyros Lesbos (1971)
+#EXTINF:0 CUID="21" tvg-name="Vampyros Lesbos" tvg-logo="https://images.static-bluray.com/movies/covers/116995_front.jpg" group-title="FILMES LEGENDADOS",Vampyros Lesbos
 https://pixeldrain.com/api/file/4Xc9zEeL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/64334_front.jpg" group-title="Filme",The Night of the Hunted (1980)
+#EXTINF:0 CUID="22" tvg-name="La nuit des traquées" tvg-logo="https://images.static-bluray.com/movies/covers/64334_front.jpg" group-title="FILMES LEGENDADOS",La nuit des traquées
 https://pixeldrain.com/api/file/BGV2w2gd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/255080_front.jpg" group-title="Filme",Malabimba (1979)
+#EXTINF:0 CUID="23" tvg-name="Malabimba" tvg-logo="https://images.static-bluray.com/movies/covers/255080_front.jpg" group-title="FILMES LEGENDADOS",Malabimba
 https://pixeldrain.com/api/file/A16R5xbB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/138428_front.jpg" group-title="Filme",She Killed in Ecstasy
+#EXTINF:0 CUID="24" tvg-name="She Killed in Ecstasy" tvg-logo="https://images.static-bluray.com/movies/covers/138428_front.jpg" group-title="FILMES LEGENDADOS",She Killed in Ecstasy
 https://pixeldrain.com/api/file/RUMQrABA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/192700_front.jpg" group-title="Filme",Antipornô (2017)
+#EXTINF:0 CUID="25" tvg-name="Antipornô" tvg-logo="https://images.static-bluray.com/movies/covers/192700_front.jpg" group-title="FILMES LEGENDADOS",Antipornô
 https://pixeldrain.com/api/file/Lc8FEJfe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/337546_front.jpg" group-title="Filme",Debbie Does Demons (2022)
+#EXTINF:0 CUID="26" tvg-name="Debbie Does Demons" tvg-logo="https://images.static-bluray.com/movies/covers/337546_front.jpg" group-title="FILMES LEGENDADOS",Debbie Does Demons
 https://pixeldrain.com/api/file/7Jg3Uzij
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/352585_front.jpg" group-title="Filme",All Ladies Do It (1992)
+#EXTINF:0 CUID="27" tvg-name="Todas as Mulheres Fazem" tvg-logo="https://images.static-bluray.com/movies/covers/352585_front.jpg" group-title="FILMES LEGENDADOS",Todas as Mulheres Fazem
 https://pixeldrain.com/api/file/RP2CQHvs
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/287823_front.jpg" group-title="Filme",La via della prostituzione (1978)
+#EXTINF:0 CUID="28" tvg-name="La via della prostituzione" tvg-logo="https://images.static-bluray.com/movies/covers/287823_front.jpg" group-title="FILMES LEGENDADOS",La via della prostituzione
 https://pixeldrain.com/api/file/anNDdnqt
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/343135_front.jpg" group-title="Filme",Emanuelle nera (1975)
+#EXTINF:0 CUID="29" tvg-name="Emanuelle nera" tvg-logo="https://images.static-bluray.com/movies/covers/343135_front.jpg" group-title="FILMES LEGENDADOS",Emanuelle nera
 https://pixeldrain.com/api/file/NVhbKVuo
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238630_front.jpg" group-title="Filme",Emanuelle e Françoise (Le sorelline) (1975)
+#EXTINF:0 CUID="30" tvg-name="Emanuelle e Françoise" tvg-logo="https://images.static-bluray.com/movies/covers/238630_front.jpg" group-title="FILMES LEGENDADOS",Emanuelle e Françoise
 https://pixeldrain.com/api/file/AZVk3kqH
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/196041_front.jpg" group-title="Filme",Frauengefängnis (1976)
+#EXTINF:0 CUID="31" tvg-name="Frauengefängnis" tvg-logo="https://images.static-bluray.com/movies/covers/196041_front.jpg" group-title="FILMES LEGENDADOS",Frauengefängnis
 https://pixeldrain.com/api/file/x652z99h
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/286761_front.jpg" group-title="Filme",Crazy Desires of a Murderer (1977)
+#EXTINF:0 CUID="32" tvg-name="Crazy Desires of a Murderer" tvg-logo="https://images.static-bluray.com/movies/covers/286761_front.jpg" group-title="FILMES LEGENDADOS",Crazy Desires of a Murderer
 https://pixeldrain.com/api/file/XpEirEvL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/238951_front.jpg" group-title="Filme",Eleven Days, Eleven Nights (1987)
+#EXTINF:0 CUID="33" tvg-name="Onze Dias, Onze Noites" tvg-logo="https://images.static-bluray.com/movies/covers/238951_front.jpg" group-title="FILMES LEGENDADOS",Onze Dias, Onze Noites
 https://pixeldrain.com/api/file/yNAmmgyA
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/1ZIMDXWgvr8U8f4f2D9Ky6CRXhA.jpg" group-title="Filme",Joana D'Arc (1999)
-https://pixeldrain.com/api/file/T7oAScCv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filme",Up! (1976)
+#EXTINF:0 CUID="34" tvg-name="Up! 1976" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="FILMES LEGENDADOS",Up! 1976
 https://pixeldrain.com/api/file/iYGhSwLN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/134231_front.jpg" group-title="Filme",Beyond the Valley of the Dolls (1970)
+#EXTINF:0 CUID="35" tvg-name="De Volta ao Vale das Bonecas" tvg-logo="https://images.static-bluray.com/movies/covers/134231_front.jpg" group-title="FILMES LEGENDADOS",De Volta ao Vale das Bonecas
 https://pixeldrain.com/api/file/e6pHpzBf
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/131656_front.jpg" group-title="Filme",La comtesse perverse (1975)
+#EXTINF:0 CUID="36" tvg-name="La comtesse perverse" tvg-logo="https://images.static-bluray.com/movies/covers/131656_front.jpg" group-title="FILMES LEGENDADOS",La comtesse perverse
 https://pixeldrain.com/api/file/ZFq7Ne7J
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjZTBkN2UtMTU1Ni00NjQ1LWJiNzItNDY2MTkxZDIzNjU0XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filme",Female Perversions (1997)
+#EXTINF:0 CUID="37" tvg-name="Female Perversions" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJjZTBkN2UtMTU1Ni00NjQ1LWJiNzItNDY2MTkxZDIzNjU0XkEyXkFqcGc@._V1_SX700.jpg" group-title="FILMES LEGENDADOS",Female Perversions
 https://pixeldrain.com/api/file/z4XmBFt7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/zPhp6SDQlYXvZYkvHrF3ecmSdQ0.jpg" group-title="Filme",Carmilla - A Vampira de Karnstein (1970)
+#EXTINF:0 CUID="38" tvg-name="Carmilla - A Vampira de Karnstein" tvg-logo="https://www.themoviedb.org/t/p/w1280/zPhp6SDQlYXvZYkvHrF3ecmSdQ0.jpg" group-title="FILMES LEGENDADOS",Carmilla - A Vampira de Karnstein
 https://pixeldrain.com/api/file/m8VeU3NE
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/bhXmRakzWSIMNHQnMHkYRZKLiuf.jpg" group-title="Filme",Byleth: The Demon of Incest (1972)
+#EXTINF:0 CUID="39" tvg-name="Byleth: The Demon of Incest" tvg-logo="https://www.themoviedb.org/t/p/w1280/bhXmRakzWSIMNHQnMHkYRZKLiuf.jpg" group-title="FILMES LEGENDADOS",Byleth: The Demon of Incest
 https://pixeldrain.com/api/file/yqu6P6qz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="Filme",Keeper (2025)
+#EXTINF:0 CUID="40" tvg-name="Para Sempre Medo" tvg-logo="https://www.themoviedb.org/t/p/w1280/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="FILMES LEGENDADOS",Para Sempre Medo
 https://pixeldrain.com/api/file/WA9dQHcG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/aNSG83t9WZgFkXh2auE7puzg7a7.jpg" group-title="Filme",Calígula - A Historia Que Não Foi Contada (1982)
+#EXTINF:0 CUID="41" tvg-name="Calígula - A Historia Que Não Foi Contada" tvg-logo="https://www.themoviedb.org/t/p/w1280/aNSG83t9WZgFkXh2auE7puzg7a7.jpg" group-title="FILMES LEGENDADOS",Calígula - A Historia Que Não Foi Contada
 https://pixeldrain.com/api/file/W59ZZqEU
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filme",De Sade 70 (1970)
+#EXTINF:0 CUID="42" tvg-name="De Sade 70" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="FILMES LEGENDADOS",De Sade 70
 https://pixeldrain.com/api/file/Ti7jurqV
-#EXTINF:-1 tvg-id="" tvg-name="Cruel Passion" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filme",Marquis de Sade’s: Justine (1977)
+#EXTINF:0 CUID="43" tvg-name="Marquis de Sade’s: Justine" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="FILMES LEGENDADOS",Marquis de Sade’s: Justine
 https://pixeldrain.com/api/file/DQWwazNh
-#EXTINF:-1 tvg-id="" tvg-name="A Pervertida" tvg-logo="https://www.themoviedb.org/t/p/w1280/riGfIoNOkJNzhIOm8zTymvhzs7t.jpg" group-title="Filme",Cheeky (2000)
-https://pixeldrain.com/api/file/cZwjpNfV
-#EXTINF:-1 tvg-id="" tvg-name="Henry & June: Delírios Eróticos" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="Filme",Henry & June (1990)
+#EXTINF:0 CUID="44" tvg-name="Henry & June: Delírios Eróticos" tvg-logo="https://www.themoviedb.org/t/p/w1280/oD4oivAJ0LcqGdbCOwMa9aFBa3L.jpg" group-title="FILMES LEGENDADOS",Henry & June: Delírios Eróticos
 https://pixeldrain.com/api/file/rUmL5vyx
-
-###################################  4K  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Monella (1998)
-https://pixeldrain.com/api/file/Ax2TRQcy
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/usGVBMdUxIiXIZ2iZD04iWsi3ed.jpg" group-title="Filmes 4K",Keeper (2025)
-https://pixeldrain.com/api/file/19Z5PwJe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkyMDAxOTUzNF5BMl5BanBnXkFtZTcwNTgyMDAyMQ@@._V1_SX700.jpg" group-title="Filmes 4K",Kevin Turvey: The Man Behind the Green Door (1982)
-https://pixeldrain.com/api/file/6kWzrp1r
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/403537_front.jpg" group-title="Filmes 4K",Vampyros Lesbos (1971)
-https://pixeldrain.com/api/file/FXhy4KFR
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/338378_front.jpg" group-title="Filmes 4K",The Night of the Hunted (1980)
-https://pixeldrain.com/api/file/Fy5PuEcK
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/286061_front.jpg" group-title="Filmes 4K",SexWorld (1978)
-https://pixeldrain.com/api/file/356NFJWG
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/335549_front.jpg" group-title="Filmes 4K",Todas as Mulheres Fazem (1992)
-https://pixeldrain.com/api/file/BLPCDzfb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes 4K",Onze Dias, Onze Noites 2 (1991)
-https://pixeldrain.com/api/file/xXRZr9kS
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTFkMjFkY2YtMTRkOS00YTQxLTgwYjYtMWNhNzFiNzFhYzE1XkEyXkFqcGc@._V1_SX700.jpg" group-title="Filmes 4K",Up! (1976)
-https://pixeldrain.com/api/file/L52rMxer
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/lKvSKZfYlWcFKvF5xC9mvrzYyQ4.jpg" group-title="Filmes 4K",De Sade 70 (1970)
-https://pixeldrain.com/api/file/j8LDSGmB
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/j6oZpGbGuEp7wAPXkwLu0AiD8ML.jpg" group-title="Filmes 4K",Marquis de Sade’s: Justine (1977)
-https://pixeldrain.com/api/file/RxhUEvQL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg" group-title="Filmes 4K",Supervixens (1975)
-https://pixeldrain.com/api/file/MDAZnDT7
-
-###################################  +18  ###############################################
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="Filme +18",The Opening of Misty Beethoven (1976)
+#EXTINF:0 CUID="45" tvg-name="The Opening of Misty Beethoven" tvg-logo="https://images.static-bluray.com/movies/covers/62747_front.jpg" group-title="FILMES LEGENDADOS",The Opening of Misty Beethoven
 https://pixeldrain.com/api/file/6thFbxPW
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/383019_front.jpg" group-title="Filme +18",Rolls-Royce Baby (1975)
+#EXTINF:0 CUID="46" tvg-name="Rolls-Royce Baby" tvg-logo="https://images.static-bluray.com/movies/covers/383019_front.jpg" group-title="FILMES LEGENDADOS",Rolls-Royce Baby
 https://pixeldrain.com/api/file/Wa99fQaz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/mwzVbHVe6IKO2mdtamiFcbK6Zdi.jpg" group-title="Filme +18",Pretty Peaches 2 (1987)
+#EXTINF:0 CUID="47" tvg-name="Pretty Peaches 2" tvg-logo="https://www.themoviedb.org/t/p/w1280/mwzVbHVe6IKO2mdtamiFcbK6Zdi.jpg" group-title="FILMES LEGENDADOS",Pretty Peaches 2
 https://pixeldrain.com/api/file/UXCmYHJL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/w1280/n5IyeWnpCQ1ijo4Ol2GzHygKP5S.jpg" group-title="Filme +18",Pretty Peaches 3: The Quest (1989)
+#EXTINF:0 CUID="48" tvg-name="Pretty Peaches 3: The Quest" tvg-logo="https://www.themoviedb.org/t/p/w1280/n5IyeWnpCQ1ijo4Ol2GzHygKP5S.jpg" group-title="FILMES LEGENDADOS",Pretty Peaches 3: The Quest
 https://pixeldrain.com/api/file/e5Q4sLYN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.tmdb.org/t/p/w780/udJPmmOP7rbS69MIDlkR5LPVrVa.jpg" group-title="Filme +18",Deep Throat (1972)
+#EXTINF:0 CUID="49" tvg-name="Deep Throat" tvg-logo="https://image.tmdb.org/t/p/w780/udJPmmOP7rbS69MIDlkR5LPVrVa.jpg" group-title="FILMES LEGENDADOS",Deep Throat
 https://pixeldrain.com/api/file/LedmSD1j
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/163006_front.jpg" group-title="Filme +18",Deep Throat Part II (1974)
+#EXTINF:0 CUID="50" tvg-name="Deep Throat Part II" tvg-logo="https://images.static-bluray.com/movies/covers/163006_front.jpg" group-title="FILMES LEGENDADOS",Deep Throat Part II
 https://pixeldrain.com/api/file/kwvGzBhL
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.static-bluray.com/movies/covers/196578_front.jpg" group-title="Filme +18",Too Naughty to Say No (1985)
+#EXTINF:0 CUID="51" tvg-name="Too Naughty to Say No" tvg-logo="https://images.static-bluray.com/movies/covers/196578_front.jpg" group-title="FILMES LEGENDADOS",Too Naughty to Say No
 https://pixeldrain.com/api/file/NYSdaohc
-
-
+#EXTINF:0 CUID="52" tvg-name="Justine: A Matter of Innocence" tvg-logo="https://images.static-bluray.com/movies/covers/257554_front.jpg" group-title="FILMES LEGENDADOS",Justine: A Matter of Innocence
+https://pixeldrain.com/api/file/TjBVAXUe
